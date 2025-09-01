@@ -77,7 +77,7 @@ This project is a **simple HTML-only website** designed to teach how to structur
 
 **M.S.Raaid Shaheer**
 Email: [sahlraaid52@gmail.com](mailto:sahlraaid52@gmail.com)
-Phone: +94 71 123 4567
+
 
 ---
 
